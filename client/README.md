@@ -75,15 +75,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## 3. Create app service / web app. - done
 
-## 4. Great github repo.
+## 4. Great github repo. - done
 
-## 5. Connect github to azure.
+## 5. Connect github to azure. - done
 
-## 6. Write script for production in server.js.
+## 6. Write script for production in server.js. - done
 
-## 7. Change baseUrl.
+## 7. Change baseUrl. - done
 
-## 8. Build client static files.
+## 8. Build client static files. - done
 
 ## 9. Push code to github.
 
